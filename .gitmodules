@@ -1,0 +1,6 @@
+[submodule "modules/frontend"]
+	path = modules/frontend
+	url = git@github.com:tasky-aws/tasky-frontend.git
+[submodule "modules/api"]
+	path = modules/api
+	url = git@github.com:tasky-aws/tasky-api.git
