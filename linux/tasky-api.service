@@ -1,0 +1,8 @@
+[Unit]
+Description=Tasky API
+
+[Service]
+ExecStart=~/tasky/tasky-api
+
+[Install]
+WantedBy=multi-user.target 

@@ -1,0 +1,9 @@
+
+[Unit]
+Description=Tasky
+
+[Service]
+ExecStart=~/tasky/tasky-linux-x64/tasky
+
+[Install]
+WantedBy=multi-user.target 
